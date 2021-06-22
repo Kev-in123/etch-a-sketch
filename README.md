@@ -1,2 +1,2 @@
-# etchasketch
-etchasketch written in python
+# etch a sketch
+etch a sketch written in python
