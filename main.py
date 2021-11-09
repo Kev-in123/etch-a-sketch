@@ -25,11 +25,8 @@ def main():
         if keys[pygame.K_UP] and y > 0:
           y -= vel
                 
-        
         if keys[pygame.K_DOWN] and y < 750-1:
-      
           y += vel
-              
                     
         pygame.draw.rect(win, (0, 0, 0), (x, y, 1, 1))
             
